@@ -44,7 +44,7 @@ class MainWindow(QMainWindow):
         layout = self.gridLayout()
         self.setCentralWidget(layout)
 
-    def gridLayout():
+    def gridLayout(self):
         w = QWidget()
 
         return w
